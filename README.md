@@ -6,7 +6,7 @@
 
 ## 下载
 
-安装包在 **Releases** 页面（`虚拟人体展示版_90MB.zip`，约 71 MB）：
+安装包在 **Releases** 页面（`virtual-human-demo-v0.1.0.zip`，约 71 MB）：
 
 1. 下载 zip 并解压
 2. 需要 Python 3.10+，无需安装第三方库
